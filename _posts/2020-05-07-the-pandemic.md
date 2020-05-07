@@ -3,7 +3,7 @@ layout: post
 title:  "The pandemic"
 date:   2020-05-07T17:26:52-05:00
 author: Shoyombo Hannah
-categories: non-fiction
+categories: poem
 tags:	poem
 cover:  "/assets/pandemic_header.jpeg"
 ---
