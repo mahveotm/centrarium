@@ -10,7 +10,7 @@ cover:      "/assets/two_arcgons .jpeg"
 
 
 
-Samael,he who is said to be gifted by his Father's own will,begins to question his Father's grand plan.He looks onwards towards his Father's Creation,majestically constructed in Glorified Intent,he gaze upon the constructs with eyes as fiery as flames,hair seemingly long and red in comparison to his other brothers.
+Samael, he who is said to be gifted by his Father's own will,begins to question his Father's grand plan.He looks onwards towards his Father's Creation,majestically constructed in Glorified Intent,he gaze upon the constructs with eyes as fiery as flames,hair seemingly long and red in comparison to his other brothers.
  His dreaded thoughts begin to ooze out of him,staining the Haven in which he stands,knowing full well his thoughts are being read by his Father but his strong determination could care not much of it.
  Michael,ever calm like the eastern breeze,soft in words and character,eyes comforting and lain with sky blue complexity,hair long and golden as smooth as silk.In his solemn space ever distant from his other brothers except samael,in which they both grow some kind of attachment between one another.
  Michael mostly called upon by his Father to relay instructions to his brothers,this said instructions doesn't often occur,it could be an interval of months,years,centuries.He is said to innate his Father's Demiurgic Powers.
