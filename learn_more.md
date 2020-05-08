@@ -5,10 +5,5 @@ permalink: /learn_more/
 main_nav: true
 ---
 
-Are you a writer and what to get your  works published? 
-Then visit our website www.thewritershub.com.ng, or send a mail to
-hello@thewritershub.com.ng
-You can also send us a Dm on our social media platform 
-Facebook-The writers hub
-Twitter@thewriters__hub
-Instagram-thewriters__hub
+To publish with us, fill the form on the form section and write a message of intent.
+You can also send us an email via hello@writershub.com or a dm on Instagram Twitter and Facebook 
