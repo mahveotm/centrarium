@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How we operate 
-permalink: /who_we_are/
+title: Learn more 
+permalink: /learn_more/
 main_nav: true
 ---
 
