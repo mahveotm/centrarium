@@ -18,7 +18,7 @@ Thanks!
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>Phone number: <input type="text" name="name" /></label> 
+    <label>Phone number: <input type="tel" name="number" /></label> 
   </p>
   <p>
     <label>Your Email: <input type="email" name="email" /></label>
