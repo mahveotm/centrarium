@@ -2,12 +2,11 @@
 layout: post 
 title:  "A tale of two Archons"
 date:   2020-05-08T17:34:52-05:00
-author:     Abdul Qudus Dauda
-categories:  fiction
-tags:        Fiction
-cover:      "/assets/two_arcgons .jpeg"
+author:  Abdul Qudus Dauda
+categories: fiction
+tags:   Fiction
+cover: "/assets/two_arcgons .jpeg"
 ---
-
 
 
 Samael, he who is said to be gifted by his Father's own will,begins to question his Father's grand plan.He looks onwards towards his Father's Creation,majestically constructed in Glorified Intent,he gaze upon the constructs with eyes as fiery as flames,hair seemingly long and red in comparison to his other brothers.
