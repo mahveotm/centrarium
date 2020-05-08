@@ -1,12 +1,14 @@
-- - -
-Layout: post 
-Title:  “A TALE OF TWO ARCHONS”
-Date:     2020-05-08T7: 34:44+01:00
-Author:     Abdul Qudus Dauda
-Categories:  fiction
-Tags:        Fiction
-Cover:      “/assets/two_arcgons .jpeg”
-— - -
+---
+layout: post 
+title:  "A TALE OF TWO ARCHONS"
+date:   2020-05-08T17:34:52-05:00
+author:     Abdul Qudus Dauda
+categories:  fiction
+tags:        Fiction
+cover:      "/assets/two_arcgons .jpeg"
+---
+
+
 
 Samael,he who is said to be gifted by his Father's own will,begins to question his Father's grand plan.He looks onwards towards his Father's Creation,majestically constructed in Glorified Intent,he gaze upon the constructs with eyes as fiery as flames,hair seemingly long and red in comparison to his other brothers.
  His dreaded thoughts begin to ooze out of him,staining the Haven in which he stands,knowing full well his thoughts are being read by his Father but his strong determination could care not much of it.
