@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "A TALE OF TWO ARCHONS"
+title:  "A tale of two Archons"
 date:   2020-05-08T17:34:52-05:00
 author:     Abdul Qudus Dauda
 categories:  fiction
