@@ -35,4 +35,4 @@ This battle will be known by all as “The Great Fall”, relating to the fall o
 Samael,renouncing his name to Lucifer(The morninstar,The Lightbringer),with Infinite Will blessed to him by his Father during his creation.He went ahead to proclaim himself The Taunting King Of The Damned with his fellow brothers now turned Demons.
 Michael once again at The presence of his Father asked “why Father, why did this transpire?”
 The presence answered “IT WAS MEANT TO BE”.
-P
+
