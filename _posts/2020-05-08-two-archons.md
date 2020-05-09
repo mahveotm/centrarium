@@ -5,7 +5,7 @@ date:   2020-05-08T17:44:52-05:00
 author:  Abdul Qudus Dauda
 categories: fiction
 tags:   Fiction
-cover: "/assets/two_arcgons .jpeg"
+cover: "/assets/two_arcgons.jpeg"
 ---
 
 
