@@ -15,7 +15,8 @@ Samael,he who is said to be gifted by his Father's own will,begins to question h
  Michael,ever calm like the eastern breeze,soft in words and character,eyes comforting and lain with sky blue complexity,hair long and golden as smooth as silk.In his solemn space ever distant from his other brothers except samael,in which they both grow some kind of attachment between one another.
  Michael mostly called upon by his Father to relay instructions to his brothers,this said instructions doesn't often occur,it could be an interval of months,years,centuries.He is said to innate his Father's Demiurgic Powers.
  Samael sought for his brother Michael,they both exchanged greetings as they often do when they cross path.
- Then Michael asked “Oh brother why have you come to my presence this day”
+ 
+Then Michael asked “Oh brother why have you come to my presence this day”
 Samael replied “I have come for an issue has been craving action within me for a time now brother”
 “What issue is this you speak of?” Michael asked
 Sameal replied “I wish to be of my own volition”
@@ -25,6 +26,7 @@ Michael answered “Oh brother we are of no objection to our Father's plan ”
 “Michael,will you stand by me when i make my keen stand on our Father's creation?” Samael asked
 Michael replied “No,oh brother of mine,you ought to seek penance for the calamity of sacrilege and i shall speak to father in your stead ”
 Samael looked at his brother with intense gaze and nod his head in contempt of him not standing by him,and then he stretched his wings with one flap he took off in disappointment.
+
 Michael went to the Tower Of Divinity, where he mostly receives instructions from his Father,He hasn't called upon him but The Most Omniscient knows what troubles his son to have sought for him,and also the outcome of what shall transpire in time.
 Michael knelt at The Presence and said “Father i know not of what to do,for my strength is Yours to will it as You may”
 The Presence replied with a benevolent tune that sounds entirely out of existence “GO FORTH MY SON FOR YOU KNOW WHAT MUST BE”.Michael stood up and left his Father's Presence,gathering Haven's Legion to confront his brother Samael.
@@ -33,3 +35,4 @@ This battle will be known by all as “The Great Fall”, relating to the fall o
 Samael,renouncing his name to Lucifer(The morninstar,The Lightbringer),with Infinite Will blessed to him by his Father during his creation.He went ahead to proclaim himself The Taunting King Of The Damned with his fellow brothers now turned Demons.
 Michael once again at The presence of his Father asked “why Father, why did this transpire?”
 The presence answered “IT WAS MEANT TO BE”.
+P
