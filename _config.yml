@@ -47,7 +47,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 #Disqus comments
-disqus_shortname: Olowoyo_oluwaloseyi
+disqus_shortname: https://https-www-thewritershub-com-ng.disqus.com/admin/
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
