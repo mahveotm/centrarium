@@ -5,7 +5,6 @@ date: 2020-05-16T10:23:12
 author: Onisemoh Oluwatomi
 categories: poem
 tags: poem
-cover: 
 
 ---
 
