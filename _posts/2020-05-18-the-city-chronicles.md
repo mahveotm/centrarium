@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "City Chronicles"
+title: "City chronicles"
 date: 2020-05-18T10:23:12 
 author: Abdul Qudus Dauda
 categories: poem
