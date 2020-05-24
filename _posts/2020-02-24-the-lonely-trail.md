@@ -22,7 +22,7 @@ Smiling my most enjoyed art
 My pains I share with myself  
 Stored up as tho in a shelf  
  
-None seems cool enough  
+None seems to be cool enough  
 As they will spill it  in a cough  
 You may say I keep my secret  
 But I say I'm simply discreet  
