@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The lonely trail"
-date: 2020-05-24T10:20:52-05:00
+date: 2020-05-24T10:20:52
 author: Onisemoh Oluwatomi
 categories: poem
 tags:	poem
