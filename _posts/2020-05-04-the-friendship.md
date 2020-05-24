@@ -9,7 +9,7 @@ cover:  "/assets/reality_header.jpeg"
 ---
 
 
-Tonight, in the air filled with a subtle feel of harmattan, I wonder how, swiftly, my friendships with people fade. How, just in a very small space of time, we stop to talk to ourselves. How, although difficult, very simple it would seem- just like nothing- no connection- ever happened.
+Tonight, in the air filled with a subtle feel of harmattan, I wonder how swiftly, my friendships with people fade. How, just in a very small space of time, we stop to talk to ourselves. How, although difficult, very simple it would seem - just like nothing- no connection- ever happened.
 
 I sat very close to my thoughts tonight. I saw how much I tried to fill the space, despite how much it demanded. I saw how much I beat myself so hard to say “Hello. You crossed my thoughts. I just wanted to check on you.” I am very much withdrawn, and you need an extra effort to pull me in. And, I guess that is where the problem all starts off.
 
