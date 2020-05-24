@@ -8,9 +8,9 @@ tags:	poem
 cover:  "/assets/pandemic_header.jpeg"
 ---
 
-Unexpectedly,I heard the flame from a break 
+Unexpectedly, I heard the flame from a break 
 Widespread coming out in a bleak,
-Without an invitation visiting souls like it's a relative.
+Without an invitation visiting souls like it is a relative.
 
 Could it  be Christ’s word prevailing, 
 When he said he would come at night like a thief?
