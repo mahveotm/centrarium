@@ -38,7 +38,7 @@ The only weapon I had education
 Fades as my hope dwiddle
 
 
- we're deprived of our birth right.
+we're deprived of our birth right.
 The leaders of tomorrow are forgotten 
- I hate to say there's no future to hold on to
-As there dreams have been shattered
+I hate to say there's no future to hold on to
+As there dreams have been shattered.
