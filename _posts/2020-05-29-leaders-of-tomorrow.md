@@ -18,7 +18,7 @@ As we suffer and wander In condemnation
 You're the leader of tomorrow I say is myth
 Hunger,thirst and poverty we reckon with
 Our bones scrawny due to malnutrition
-In  misery we strive with a blurry vision.
+In  misery we strive with a blurry vision
 
 Leaders of tomorrow we were told
 Into slavery,and illiteracy we're sold
@@ -35,7 +35,7 @@ Leaders they say are made not born
 In readiness and preparedness we await the morrow that never comes
 The best heritage and legacy is lost
 The only weapon I had education
-Fades as my hope dwiddle
+Fades as my hope dwiddle.
 
 
 we're deprived of our birth right.
