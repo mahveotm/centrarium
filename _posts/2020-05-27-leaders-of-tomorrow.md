@@ -18,7 +18,7 @@ As we suffer and wander In condemnation
 You're the leader of tomorrow I say is myth
 Hunger,thirst and poverty we reckon with
 Our bones scrawny due to malnutrition
-In  misery we strive with a blurry vision
+In  misery we strive with a blurry vision.
 
 Leaders of tomorrow we were told
 Into slavery,and illiteracy we're sold
