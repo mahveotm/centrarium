@@ -5,7 +5,7 @@ date: 2020-06-08
 author: Olatunde Olowoyo
 categories: Non-fiction
 tags: Non-fiction
-cover: "assets/78F05066-F128-4BBC-A625-73CE183D1A2B.jpeg"
+cover: "assets/asset.jpg"
 ---
 
 
