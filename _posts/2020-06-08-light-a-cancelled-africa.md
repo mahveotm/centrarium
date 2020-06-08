@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "light a cancelled africa"
-date: 2020-06-08T16:53:12 
+date: 2020-06-08
 author: Olatunde Olowoyo
 categories: Non-fiction
 tags: Non-fiction
