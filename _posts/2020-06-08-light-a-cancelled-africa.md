@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "light a cancelled africa"
+title: "light a candle"
 date: 2020-06-08
 author: Olatunde Olowoyo
 categories: Non-fiction
@@ -12,7 +12,7 @@ cover: "assets/78F05066-F128-4BBC-A625-73CE183D1A2B.jpeg"
 
 
 Don't look for the problems of Africa in her streets.
-Neither look for it in her markets or In a far away land of some enimies.
+Neither look for it in her markets or In a far away land of some enemies.
 Our problems are right in our minds.
 
 You blame the man who stole our lands and put our people into slavery
@@ -23,7 +23,7 @@ If you think this was in the past i am sorry your lens must be misty.
 Today Africans are still deligently and devotedly emptying their treasure house for phony rewards.
 
 Our leaders are leading the way with multitude streaming and cotoeing with them to the slaughter slab smiling, rejoicing and some in outright frenzy. 
-Some are weeping not because they know the doom ahead but because they are far behind in the cue. 
+Some are weeping not because they know the doom ahead but because they are far behind in the queue. 
 Now is the time to illuminate our darkness we have cursed darkness long enough Let's light a candle . 
 
 Darkness hears only light, our hearts are groping in pitch darkness. 
