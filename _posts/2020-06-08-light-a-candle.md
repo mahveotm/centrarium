@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "light a candle"
+title: "Light a candle"
 date: 2020-06-08
 author: Olatunde Olowoyo
 categories: Non-fiction
@@ -22,12 +22,12 @@ But what should we do to the man who rounded his brothers up and sold them into 
 If you think this was in the past i am sorry your lens must be misty. 
 Today Africans are still deligently and devotedly emptying their treasure house for phony rewards.
 
-Our leaders are leading the way with multitude streaming and cotoeing with them to the slaughter slab smiling, rejoicing and some in outright frenzy. 
+Our leaders are leading the way with multitude streaming and cotoeing with them to the slaughter slab smiling, rejoicing and some in outright frenzy
 Some are weeping not because they know the doom ahead but because they are far behind in the queue. 
 Now is the time to illuminate our darkness we have cursed darkness long enough Let's light a candle . 
 
 Darkness hears only light, our hearts are groping in pitch darkness. 
-They are thirsting for light. 
+They are thirsting for light.
 
 LIGHT A CANDLE  AFRICA !
 
