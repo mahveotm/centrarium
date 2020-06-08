@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Light a candle"
+title: "Light a candle Africa"
 date: 2020-06-08
 author: Olatunde Olowoyo
 categories: Non-fiction
