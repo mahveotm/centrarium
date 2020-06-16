@@ -2,13 +2,12 @@
 layout: post
 title: "blessed at birth to bear the pain"
 date: 2020-06-16
-author: Shoyombo Hannah
+author: shoyombo hannah
 categories: Poem
 tags: Poem
 cover: "/assets/blessed.jpg"
 
 ---
-
 
 
 The drip of blood is an inspiration to live
