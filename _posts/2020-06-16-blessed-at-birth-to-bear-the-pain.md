@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "blessed at birth to bear the pain"
@@ -33,3 +32,4 @@ Comfort in her jagged and tamed voice
 In all she climbs the ladder with valor
 Strengthen by the future she carry
 She's blessed at birth to bear the pain.
+
