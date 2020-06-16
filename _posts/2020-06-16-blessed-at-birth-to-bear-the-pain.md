@@ -9,7 +9,7 @@ cover: "/assets/blessed.jpg"
 
 ---
 
-Blessed at birth to bear the pain 
+
 
 The drip of blood is an inspiration to live
 With courage in my heart I  move
