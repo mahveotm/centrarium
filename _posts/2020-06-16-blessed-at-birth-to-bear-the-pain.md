@@ -4,8 +4,8 @@ layout: post
 title: "blessed at birth to bear the pain"
 date: 2020-06-16
 author: Shoyombo Hannah
-categories: poem
-tags: poem
+categories: Poem
+tags: Poem
 cover: "/assets/blessed.jpg"
 
 ---
