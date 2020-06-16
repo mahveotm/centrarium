@@ -23,7 +23,7 @@ Lonely,she strife the path to give meaning
 A mother, she works ahead her fear
 Like Abraham without a destination
 The emptiness in makes her longing
-The hardship for her child she bear.
+The hardship for her child she bear
 
 The scars utter more than she speak
 She is but a silenced mother finding,
