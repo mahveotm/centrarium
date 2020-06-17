@@ -12,7 +12,7 @@ cover:  "/assets/blessed.jpg"
 
 The drip of blood is an inspiration to live
 With courage in my heart I  move
- Sacred are the unspoken word of a mother 
+Sacred are the unspoken word of a mother 
 A chord  binding  us together forever
 
 In agony she labor that I may breath
