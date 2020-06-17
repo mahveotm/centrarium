@@ -30,4 +30,4 @@ She is but a silenced mother finding,
 Comfort in her jagged and tamed voice
 In all she climbs the ladder with valor
 Strengthen by the future she carry
-She's blessed at birth to bear the pain.
+She's blessed at birth to bear the pain
