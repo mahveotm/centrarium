@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who has eyes that see and ears that hears?"
+title:  "Nugget of Wisdom"
 date:   2020-08-02
 author: Akinwumi OA Paul
 categories: religion
@@ -9,7 +9,7 @@ tags: religion
 ---
 
 
-*Nugget of Wisdom *
+
 In a careful analysis of the nature of man, 
 God, the world, the seen and unseen, 
 this temporal realm spanning the beginning to the end 
