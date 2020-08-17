@@ -25,7 +25,7 @@ Who cares if they are foolish or wise, able or disable?
 
 Their feet are meant to run pitiable errands and their buttocks freeze solid-rock at the remembrance of their debts.
 The poor passes by and are unnoticed, they are like faces hidden behind a dark mask.
-They crawl on shame and bask in the sun of misery.
+They crawl on shame and bask in the sun of misery
 Do poverty come to only the undetermined and lazy?
 Are the poor just ill fated and enriched with bad luck?
 Are there any hardworkers amongst them?
