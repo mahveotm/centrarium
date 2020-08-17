@@ -28,4 +28,4 @@ I ask again, am i as mad as Billy Jones.
 
 It's unfair that I'm always locked alone in a padded cell.
 When the doctor comes, i shall tell him i am a lawyer and i will skillfully defend my rights.
-If that fails, i shall be another Clark Kent and fight my way to freedom!
+If that fails, i shall be another Clark Kent and fight my way to freedom!.
