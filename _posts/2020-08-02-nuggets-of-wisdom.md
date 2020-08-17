@@ -13,7 +13,7 @@ tags: religion
 In a careful analysis of the nature of man, 
 God, the world, the seen and unseen, 
 this temporal realm spanning the beginning to the end 
-and our going to and fro our daily activities of diverse manners..
+and our going to and fro our daily activities of diverse manners.
 
 I have come to discover something about it all, 
 I have discovered it is all a mystery. 
