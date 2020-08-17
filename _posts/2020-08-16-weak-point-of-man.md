@@ -29,6 +29,6 @@ When it takes so long for him to see his miss.
 
 Even if he had no good voice. for her pleasure, he will sing.
 Even If he becomes weak. To fight for her, he will still hold his sling.
-He says "senorita, be my one and only Inamorata".
+He says "senorita, be my one and only Inamorata"
 Let me take you to italia in the finest of regalia.
                        
