@@ -3,7 +3,7 @@ layout: post
 title:  "The Rich And The Poor"
 date:   2020-08-16
 author: Akinwumi Oluwaseyi
-categories: poem
+categories: #
 tags:	poem
 cover:  "/assets/rich.jpg"
 ---
