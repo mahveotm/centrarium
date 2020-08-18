@@ -4,7 +4,7 @@ title:  "The Rich And The Poor"
 date:   2020-08-16
 author: Akinwumi Oluwaseyi
 categories: #
-tags:	poem
+tags: #
 cover:  "/assets/rich.jpg"
 ---
 
