@@ -3,8 +3,8 @@ layout: post
 title:  "Weak Point Of A Man"
 date:   2020-08-16
 author: Akinwumi Seyi
-categories: poem
-tags:	poem
+categories: #
+tags: #
 cover:  "/assets/weak.jpg"
 ---
 
